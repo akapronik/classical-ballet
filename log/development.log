@@ -9991,3 +9991,159 @@ Started GET "/video" for ::1 at 2016-01-17 23:24:52 +0200
 Processing by PagesController#video as HTML
   Rendered pages/video.html.haml within layouts/application (3.0ms)
 Completed 200 OK in 150ms (Views: 149.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/video" for ::1 at 2016-01-18 00:17:14 +0200
+Processing by PagesController#video as HTML
+  Rendered pages/video.html.haml within layouts/application (40.6ms)
+Completed 200 OK in 5431ms (Views: 5395.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/custom.self-26f91ee38527855b3f5d6029f9ca9731b3b31996a29b3627210fdb13058ce7ac.css?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-01-18 00:17:20 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-01-18 00:17:21 +0200
+
+
+Started GET "/video" for ::1 at 2016-01-18 00:18:01 +0200
+Processing by PagesController#video as HTML
+  Rendered pages/video.html.haml within layouts/application (0.1ms)
+Completed 200 OK in 169ms (Views: 168.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-26f91ee38527855b3f5d6029f9ca9731b3b31996a29b3627210fdb13058ce7ac.css?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-01-18 00:18:01 +0200
+
+
+Started GET "/" for ::1 at 2016-01-18 00:19:32 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (322.0ms)
+Completed 200 OK in 554ms (Views: 553.8ms | ActiveRecord: 0.0ms)

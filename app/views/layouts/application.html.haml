@@ -1,0 +1,32 @@
+!!!
+%html
+  %head
+    %title Театр Классического Балета
+    = stylesheet_link_tag "application", media: "all", |
+      "data-turbolinks-track" => true                  |
+    = javascript_include_tag "application", "data-turbolinks-track" => true
+    = csrf_meta_tags
+    /[if lt IE 9]
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  %body
+    .navbar
+      .container
+        = link_to image_tag("ballet-logo"), root_path, id: "logo"
+        %ul.nav
+          %li{:class => active_class(root_path)}= link_to "Главная", root_path
+          %li{:class => active_class(troup_history_path)}= link_to "История труппы", troup_history_path
+          %li{:class => active_class(galery_path)}= link_to "Фото", galery_path
+          %li{:class => active_class(video_path)}= link_to "Видео", video_path
+          %li{:class => active_class(partners_path)}= link_to "Партнеры", partners_path
+          %li{:class => active_class(contacts_path)}= link_to "Контакты", contacts_path
+    = yield
+    .footer
+      .container
+        © 2000 – 2015 Classical Ballet Theatre ·
+        \#{link_to "Главная", root_path} ·
+        \#{link_to "История труппы", troup_history_path} ·
+        \#{link_to "Фото", galery_path} ·
+        \#{link_to "Видео", video_path} ·
+        \#{link_to "Партнеры", partners_path} ·
+        \#{link_to "Контакты", contacts_path}
+

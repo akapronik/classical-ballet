@@ -1,14 +1,16 @@
 Rails.application.routes.draw do
-	root 'pages#home'
-  match '/troup_history',  to: 'pages#troup_history',  via: 'get'
-  match '/history',				 to: 'pages#history',				 via: 'get'
-  match '/galery',				 to: 'pages#galery',				 via: 'get'
-	match '/video',					 to: 'pages#video',					 via: 'get'
-  match '/partners',			 to: 'pages#partners',		   via: 'get'
-  match '/contacts',			 to: 'pages#contacts',			 via: 'get'
+	scope "(:locale)", locale: /#{I18n.available_locales.join("|")}/ do
+    root 'pages#home'
+    match '/troup_history',  to: 'pages#troup_history',  via: 'get'
+    match '/history',				 to: 'pages#history',				 via: 'get'
+    match '/galery',				 to: 'pages#galery',				 via: 'get'
+  	match '/video',					 to: 'pages#video',					 via: 'get'
+    match '/partners',			 to: 'pages#partners',		   via: 'get'
+    match '/contacts',			 to: 'pages#contacts',			 via: 'get'
 
-  get 'sitemap' => 'home#sitemap'
-  get 'robots' => 'home#robots', format: :text
+    get 'sitemap' => 'home#sitemap'
+    get 'robots' => 'home#robots', format: :text
+  end
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

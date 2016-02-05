@@ -22,6 +22,7 @@ gem 'sprockets-rails', '2.3.3'
 gem 'active_link_to'
 
 gem 'dynamic_sitemaps'
+gem 'metamagic'
 
 group :development, :test do
   gem 'capistrano', '~> 3.1'

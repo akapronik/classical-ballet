@@ -1,32 +1,49 @@
 !!!
 %html
   %head
-    %title Театр Классического Балета
+    %title Classical Ballet Theatre
+    %link{:href => "/assets/cbt-icon.png", :rel => "icon"}/
+    %link{:href => "/assets/cbt-icon.png", :rel => "apple-touch-icon"}/
+    %meta{:content => "Теартр классического балета", :name => "description"}/
+    %meta{:content => "театр, классического, балета, classical, ballet, theatre", :name => "keywords"}/
+    %meta{:content => "pTWZVTI80BhawmnvI3Lx-0zWHLHo6asmmsb2QtQexx4", :name => "google-site-verification"}/
     = stylesheet_link_tag "application", media: "all", |
       "data-turbolinks-track" => true                  |
     = javascript_include_tag "application", "data-turbolinks-track" => true
     = csrf_meta_tags
     /[if lt IE 9]
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    :javascript
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-72763511-1', 'auto');
+      ga('send', 'pageview');
   %body
+    #lenguage
+      = link_to_unless_current "En", locale: "en" 
+      |
+      = link_to_unless_current "Ru", locale: "ru"
     .navbar
       .container
-        = link_to image_tag("classical-ballet-theatre"), root_path, id: "logo"
+        = link_to image_tag("classical-ballet-theatre"), root_path, id: "classical-ballet-theatre"
         %ul.nav
-          %li{:class => active_class(root_path)}= link_to "Главная", root_path
-          %li{:class => active_class(troup_history_path)}= link_to "История труппы", troup_history_path
-          %li{:class => active_class(galery_path)}= link_to "Фото", galery_path
-          %li{:class => active_class(video_path)}= link_to "Видео", video_path
-          %li{:class => active_class(partners_path)}= link_to "Партнеры", partners_path
-          %li{:class => active_class(contacts_path)}= link_to "Контакты", contacts_path
+          %li{:class => active_class(root_path)}= link_to  "#{t "main"}", root_path
+          %li{:class => active_class(troup_history_path)}= link_to "#{t "history"}", troup_history_path
+          %li{:class => active_class(galery_path)}= link_to "#{t "photo"}", galery_path
+          %li{:class => active_class(video_path)}= link_to "#{t "video"}", video_path
+          %li{:class => active_class(partners_path)}= link_to "#{t "partners"}", partners_path
+          %li{:class => active_class(contacts_path)}= link_to "#{t "contacts"}", contacts_path
     = yield
     .footer
       .container
         © 2000 – 2015 Classical Ballet Theatre ·
-        \#{link_to "Главная", root_path} ·
-        \#{link_to "История труппы", troup_history_path} ·
-        \#{link_to "Фото", galery_path} ·
-        \#{link_to "Видео", video_path} ·
-        \#{link_to "Партнеры", partners_path} ·
-        \#{link_to "Контакты", contacts_path}
+        \#{link_to "#{t "main"}", root_path} ·
+        \#{link_to "#{t "history"}", troup_history_path} ·
+        \#{link_to "#{t "photo"}", galery_path} ·
+        \#{link_to "#{t "video"}", video_path} ·
+        \#{link_to "#{t "partners"}", partners_path} ·
+        \#{link_to "#{t "contacts"}", contacts_path}
 

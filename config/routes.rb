@@ -1,6 +1,11 @@
 Rails.application.routes.draw do
+  get 'set_language/english'
+
+  get 'set_language/russian'
+
 	scope "(:locale)", locale: /#{I18n.available_locales.join("|")}/ do
-    root 'pages#home'
+    root  :to => 'pages#home'
+
     match '/troup_history',  to: 'pages#troup_history',  via: 'get'
     match '/history',				 to: 'pages#history',				 via: 'get'
     match '/galery',				 to: 'pages#galery',				 via: 'get'

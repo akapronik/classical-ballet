@@ -22,10 +22,11 @@
       ga('create', 'UA-72763511-1', 'auto');
       ga('send', 'pageview');
   %body
-    .locale
-      = link_to_unless I18n.locale == :en, "En", set_language_english_path 
-      |
-      = link_to_unless I18n.locale == :ru, "Ru", set_language_russian_path 
+    .container
+      #locale
+        = link_to_unless I18n.locale == :en, "En", set_language_english_path 
+        |
+        = link_to_unless I18n.locale == :ru, "Ru", set_language_russian_path 
     .navbar
       .container
         = link_to image_tag("classical-ballet-theatre"), root_path, id: "classical-ballet-theatre"

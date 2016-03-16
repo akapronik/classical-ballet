@@ -1,22 +1,22 @@
 class PagesController < ApplicationController
 
-	def home
-	end
+  def home
+  end
 
-	def troup_history
+  def troup_history
   end
 
   def galery
   end
 
-	def video
-	end
+  def video
+  end
 
   def history
   end
 
-	def partners
-	end
+  def partners
+  end
 
   def contacts
   end

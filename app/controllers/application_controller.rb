@@ -6,13 +6,13 @@ class ApplicationController < ActionController::Base
   before_filter :set_locale
 
 private
-	
-	def set_locale
-		I18n.locale = session[:locale] || I18n.default_locale
-    session[:locale] = I18n.locale
-	end
 
-	def default_url_options(options = {})
-		{locale: I18n.locale}
-	end
+  def set_locale
+    I18n.locale = session[:locale] || I18n.default_locale
+    session[:locale] = I18n.locale
+  end
+
+  def default_url_options(options = {})
+    {locale: I18n.locale}
+  end
 end

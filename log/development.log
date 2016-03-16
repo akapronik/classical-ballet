@@ -24815,3 +24815,2766 @@ Started GET "/" for ::1 at 2016-02-05 22:24:27 +0200
 Processing by PagesController#home as HTML
   Rendered pages/home.html.haml within layouts/application (13.2ms)
 Completed 200 OK in 180ms (Views: 179.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-02-10 17:50:48 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (160.7ms)
+Completed 200 OK in 502ms (Views: 490.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:50:48 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:50:49 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:50:51 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (13.0ms)
+Completed 200 OK in 191ms (Views: 189.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:52:44 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.9ms)
+Completed 200 OK in 182ms (Views: 180.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:52:45 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:52:56 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.3ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Illegal nesting: nesting within plain text is illegal.):
+    33:           %li Екатерина Бортякова и Акжол Мусаханов - солисты «Русский балет» Англия г.Свонси
+    34:           %li Заслуженные артисты Украины Ольга Рожевич (Одесса), Геннадий Жало (Киев)
+    35:         Заслуженные артисты Молдовы, лауреаты международных конкурсов
+    36:           %li Кристина Терентьева (Грап-при Варна 2009г)
+    37:           %li Алексей Терентьев
+    38:           %li Примы балерины Большого театра Мария Аллаш,Елена Андриенко
+    39:           %li Прима Киевской национальной оперы Татьяна Голикова
+  app/views/pages/troup_history.html.haml:36
+
+
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (92.7ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (77.2ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (178.0ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:53:13 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (8.1ms)
+Completed 200 OK in 174ms (Views: 173.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:53:14 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:53:56 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.0ms)
+Completed 200 OK in 173ms (Views: 172.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:53:56 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:54:19 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.5ms)
+Completed 200 OK in 175ms (Views: 173.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:54:20 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:55:44 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (2.8ms)
+Completed 200 OK in 171ms (Views: 170.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:55:45 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:56:20 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (6.6ms)
+Completed 200 OK in 167ms (Views: 166.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:56:20 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:58:08 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (8.3ms)
+Completed 200 OK in 183ms (Views: 182.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:58:08 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:58:09 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:58:37 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.9ms)
+Completed 200 OK in 177ms (Views: 176.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:58:38 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 17:59:40 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.6ms)
+Completed 200 OK in 175ms (Views: 174.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 17:59:40 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 17:59:41 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 18:01:03 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (8.3ms)
+Completed 200 OK in 173ms (Views: 172.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/custom.self-049ead2ed611f9377d04591defa97dfa3dc208708a53a0bb296b4b56341b6e25.css?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:01:04 +0200
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:12:57 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (21.0ms)
+Completed 200 OK in 210ms (Views: 208.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:13:09 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (13.9ms)
+Completed 200 OK in 2069ms (Views: 2068.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/custom.self-0869fd95113ce5a24909fb548d306ce139f7125dd82681158d342c191ae3844a.css?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:13:11 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:13:12 +0200
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:13:20 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (11.9ms)
+Completed 200 OK in 2054ms (Views: 2053.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/custom.self-e545a34ee4255a1c973a0e19e050b572bca6f1ccc7ca036de8a71b0a5024bef6.css?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:13:22 +0200
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:26:37 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (20.9ms)
+Completed 200 OK in 1999ms (Views: 1998.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/custom.self-1b238de66339bf37dc63813a22eb553560f6ecd5de35575a9139255e33ceb774.css?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:26:39 +0200
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:27:12 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (13.6ms)
+Completed 200 OK in 216ms (Views: 215.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-1b238de66339bf37dc63813a22eb553560f6ecd5de35575a9139255e33ceb774.css?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:27:13 +0200
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:27:30 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (11.2ms)
+Completed 200 OK in 2030ms (Views: 2029.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:27:32 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:27:33 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-02-10 18:27:36 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.7ms)
+Completed 200 OK in 190ms (Views: 189.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/en/video" for ::1 at 2016-02-10 18:27:37 +0200
+Processing by PagesController#video as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/video.html.haml within layouts/application (5.3ms)
+Completed 200 OK in 195ms (Views: 193.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:28:20 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (14.6ms)
+Completed 200 OK in 169ms (Views: 168.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/set_language/russian?locale=en" for ::1 at 2016-02-10 18:28:24 +0200
+Processing by SetLanguageController#russian as HTML
+  Parameters: {"locale"=>"en"}
+Redirected to http://localhost:3000/en
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/en" for ::1 at 2016-02-10 18:28:24 +0200
+Processing by PagesController#home as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/home.html.haml within layouts/application (13.7ms)
+Completed 200 OK in 201ms (Views: 200.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-02-10 18:28:31 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (19.2ms)
+Completed 200 OK in 194ms (Views: 192.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/set_language/english?locale=ru" for ::1 at 2016-02-10 18:28:33 +0200
+Processing by SetLanguageController#english as HTML
+  Parameters: {"locale"=>"ru"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-02-10 18:28:33 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (11.6ms)
+Completed 200 OK in 174ms (Views: 173.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-02-10 18:28:38 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (11.2ms)
+Completed 200 OK in 150ms (Views: 149.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:28:38 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:28:39 +0200
+
+
+Started GET "/" for ::1 at 2016-02-10 18:28:50 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (13.1ms)
+Completed 200 OK in 183ms (Views: 182.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-02-10 18:28:50 +0200
+
+
+Started GET "/" for ::1 at 2016-03-16 10:48:02 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (150.5ms)
+Completed 200 OK in 473ms (Views: 463.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 10:48:03 +0200
+
+
+Started GET "/set_language/russian?locale=en" for ::1 at 2016-03-16 10:48:13 +0200
+Processing by SetLanguageController#russian as HTML
+  Parameters: {"locale"=>"en"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 10:48:13 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (23.5ms)
+Completed 200 OK in 230ms (Views: 228.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 11:07:12 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (149.8ms)
+Completed 200 OK in 2263ms (Views: 2254.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:07:14 +0200
+
+
+Started GET "/set_language/english?locale=ru" for ::1 at 2016-03-16 11:07:19 +0200
+Processing by SetLanguageController#english as HTML
+  Parameters: {"locale"=>"ru"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 11:07:19 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (22.9ms)
+Completed 200 OK in 191ms (Views: 189.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/set_language/russian?locale=en" for ::1 at 2016-03-16 11:07:22 +0200
+Processing by SetLanguageController#russian as HTML
+  Parameters: {"locale"=>"en"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 11:07:22 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (17.0ms)
+Completed 200 OK in 205ms (Views: 204.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/set_language/english?locale=ru" for ::1 at 2016-03-16 11:07:23 +0200
+Processing by SetLanguageController#english as HTML
+  Parameters: {"locale"=>"ru"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 11:07:23 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (12.0ms)
+Completed 200 OK in 192ms (Views: 190.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/set_language/russian?locale=en" for ::1 at 2016-03-16 11:07:24 +0200
+Processing by SetLanguageController#russian as HTML
+  Parameters: {"locale"=>"en"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 11:07:24 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (12.2ms)
+Completed 200 OK in 180ms (Views: 179.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/set_language/english?locale=ru" for ::1 at 2016-03-16 11:07:28 +0200
+Processing by SetLanguageController#english as HTML
+  Parameters: {"locale"=>"ru"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 11:07:28 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.haml within layouts/application (9.2ms)
+Completed 200 OK in 173ms (Views: 172.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:07:35 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (8.8ms)
+Completed 200 OK in 166ms (Views: 165.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:15:13 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (193.8ms)
+Completed 500 Internal Server Error in 200ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined local variable or method `г' for #<#<Class:0x007fd0aef3b0c0>:0x007fd0b01e91b8>):
+    38:           %a{:href => "https://www.facebook.com/ekaterina.bortiakova"}Екатерина Бортякова
+    39:           и
+    40:           a%{:href => "https://www.facebook.com/akzhol.mussahanov"}Акжол Мусаханов
+    41:           - солисты «Русский балет» Англия г.Свонси
+    42:           %li Заслуженные артисты Украины Ольга Рожевич (Одесса), Геннадий Жало (Киев)
+    43:           %li Заслуженные артисты Молдовы, лауреаты международных конкурсов Кристина Терентьева (Грап-при Варна 2009г), Алексей Терентьев
+    44:           %li Примы балерины Большого театра Мария Аллаш,Елена Андриенко
+  app/views/pages/troup_history.html.haml:41:in `_app_views_pages_troup_history_html_haml___35250716785995690_70267142344500'
+
+
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (95.0ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (82.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (186.3ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:15:31 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (25.8ms)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined local variable or method `г' for #<#<Class:0x007fd0aef3b0c0>:0x007fd0b42e1710>):
+    38:           %a{:href => "https://www.facebook.com/ekaterina.bortiakova"}Екатерина Бортякова
+    39:           и
+    40:           %a{:href => "https://www.facebook.com/akzhol.mussahanov"}Акжол Мусаханов
+    41:           - солисты «Русский балет» Англия г.Свонси
+    42:           %li Заслуженные артисты Украины Ольга Рожевич (Одесса), Геннадий Жало (Киев)
+    43:           %li Заслуженные артисты Молдовы, лауреаты международных конкурсов Кристина Терентьева (Грап-при Варна 2009г), Алексей Терентьев
+    44:           %li Примы балерины Большого театра Мария Аллаш,Елена Андриенко
+  app/views/pages/troup_history.html.haml:41:in `_app_views_pages_troup_history_html_haml___35250716785995690_70267176419940'
+
+
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.1ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (88.7ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (78.8ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (169.8ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:15:47 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (9.4ms)
+Completed 200 OK in 171ms (Views: 170.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:15:47 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:16:09 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (8.3ms)
+Completed 200 OK in 161ms (Views: 159.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:16:10 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:16:50 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (8.1ms)
+Completed 200 OK in 165ms (Views: 164.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:16:51 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:17:03 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.7ms)
+Completed 200 OK in 167ms (Views: 166.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:17:03 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:17:19 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (3.4ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Illegal nesting: content can't be both given on the same line as %li and nested within it.):
+    35:         В сотаве труппы выступали солисты:
+    36:         %ul
+    37:           %li.a{:href => "https://www.facebook.com/ekaterina.bortiakova"}Екатерина Бортякова
+    38:             и
+    39:           %a{:href => "https://www.facebook.com/akzhol.mussahanov"}Акжол Мусаханов
+    40:           солисты «Русский балет» Англия г.Свонси
+    41:           %li Заслуженные артисты Украины Ольга Рожевич (Одесса), Геннадий Жало (Киев)
+  app/views/pages/troup_history.html.haml:38
+
+
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.9ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (89.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (72.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (165.0ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:17:29 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.3ms)
+Completed 200 OK in 170ms (Views: 169.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:17:29 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:17:30 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:17:39 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (6.8ms)
+Completed 200 OK in 158ms (Views: 157.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:17:39 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:18:52 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (8.3ms)
+Completed 200 OK in 166ms (Views: 165.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:18:53 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:19:08 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.6ms)
+Completed 200 OK in 171ms (Views: 169.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:19:08 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:19:29 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.6ms)
+Completed 200 OK in 160ms (Views: 159.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:19:29 +0200
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:21:33 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Illegal nesting: content can't be both given on the same line as %li and nested within it.):
+    44:           %li Примы балерины Большого театра Мария Аллаш,Елена Андриенко
+    45:           %li Прима Киевской национальной оперы Татьяна Голикова
+    46:           %li Премьер Киевской национальной оперы 
+    47:             %a{:href => "https://www.facebook.com/denys.nedak"}Денис Недак
+    48:           %li и др.
+    49:       %p
+    50:         Неизменный артистический директор труппы с 2007 года - Владимир Николаевич Трощенко.
+  app/views/pages/troup_history.html.haml:47
+
+
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.1ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (87.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (71.0ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/Pronik/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (160.2ms)
+
+
+Started GET "/en/troup_history" for ::1 at 2016-03-16 11:21:53 +0200
+Processing by PagesController#troup_history as HTML
+  Parameters: {"locale"=>"en"}
+  Rendered pages/troup_history.html.haml within layouts/application (7.9ms)
+Completed 200 OK in 165ms (Views: 164.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/set_language.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/custom.self-f04765f4a9236090f2c2c34a310c0cb8046e82b1e190f86b9aff3dae4128a6aa.css?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/set_language.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-transition.self-22f6ad859a160d38bc12dab58038e1bd153dac1f587ff1d52f293292ac6c52ba.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-affix.self-1bfe12975d90ba870ccbe0eef4c8bd08ce29f47f0eb135e3cfa5846ca99f76b9.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-alert.self-d1b29780d7fbc5bcd8486f2dd22d50e00b7d44a8aa13dd0bd7510499f2a3265b.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-button.self-a7f23233d99b75f7977db57b9a3094a0e10746ffcc29be543cafaa4d0e85ac85.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-carousel.self-164e327a1b9b3eb767ec0ee7f9cb7274aca9cc39b988fa2629c6e813e9f44309.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-collapse.self-b0aaf8a38ef34e6d4622926d9840c3131a9b5495da2bf362d57d126a45833345.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-dropdown.self-b6514fb429802405e14c691417fd48a3467fc932ad087eafa1f643bf614f9834.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-modal.self-a1ba8cd0ece53696716902836f3fc9665326b97fc3539e246ca074d5ed9e8f0b.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-scrollspy.self-83e1245ad8a936f37a62990238dfe6f499935488177fd5365cb6291b0e6d2299.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-tab.self-8170fc59b889f7d7f25e963fb1a6a068bd9790cc747749555626a523e565bc2d.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-tooltip.self-826a886511eac2d47459aa2beaced88ca108cfa09745e84e8e1d326da74ac502.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-popover.self-f7ccec381e00cb3f9bde10f269cac0145d4926fa87aa0e0a184c5629a7c1d58d.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap-typeahead.self-a65cf8b6ece530a8ee80514d5b17ffe4b87a57ea4d9aa798eee1f7ad1f69c335.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/bootstrap.self-94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 11:21:54 +0200
+
+
+Started GET "/assets/classical-ballet-theatre-9aa396122cf8ba95977e7a4feddbb9abaf8fb0b606e58abcfd1202c34fd6b1cf.png" for ::1 at 2016-03-16 11:21:54 +0200

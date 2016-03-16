@@ -3,15 +3,15 @@ Rails.application.routes.draw do
 
   get 'set_language/russian'
 
-	scope "(:locale)", locale: /#{I18n.available_locales.join("|")}/ do
+  scope "(:locale)", locale: /#{I18n.available_locales.join("|")}/ do
     root  :to => 'pages#home'
 
     match '/troup_history',  to: 'pages#troup_history',  via: 'get'
-    match '/history',				 to: 'pages#history',				 via: 'get'
-    match '/galery',				 to: 'pages#galery',				 via: 'get'
-  	match '/video',					 to: 'pages#video',					 via: 'get'
-    match '/partners',			 to: 'pages#partners',		   via: 'get'
-    match '/contacts',			 to: 'pages#contacts',			 via: 'get'
+    match '/history',        to: 'pages#history',        via: 'get'
+    match '/galery',         to: 'pages#galery',         via: 'get'
+    match '/video',          to: 'pages#video',          via: 'get'
+    match '/partners',       to: 'pages#partners',       via: 'get'
+    match '/contacts',       to: 'pages#contacts',       via: 'get'
 
     get 'sitemap' => 'home#sitemap'
     get 'robots' => 'home#robots', format: :text
